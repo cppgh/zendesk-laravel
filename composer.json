@@ -14,9 +14,9 @@
     }
   ],
   "require": {
-    "php": ">=5.5.0",
-    "laravel/framework": "^13.0",
-    "zendesk/zendesk_api_client_php": "^4"
+    "php": ">=8.5.0",
+    "laravel/framework": "^12|^13",
+    "zendesk/zendesk_api_client_php": "^2|^3|^4"
   },
   "extra": {
     "laravel": {
